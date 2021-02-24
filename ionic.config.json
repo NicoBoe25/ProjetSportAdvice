@@ -1,0 +1,7 @@
+{
+  "name": "ProjetSportAdvice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
